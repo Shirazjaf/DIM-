@@ -25,7 +25,7 @@ export default function HomeTwo() {
         <main className="content">
           <SliderTwo />
           {/* <PartnerOne classname="bg-[#C4030A]" /> */}
-          {/* <ProjectTwo /> */}
+          <ProjectTwo />
           <ServiceTwo data={serviceData} />
           <TestimonialTwo />
           {/* <FormRequestTwo
