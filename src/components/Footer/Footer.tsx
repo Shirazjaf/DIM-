@@ -11,8 +11,8 @@ const Footer = () => {
                     <div className="flex max-lg:flex-col max-lg:items-start gap-y-10 pb-10">
                         <div className="lg:w-1/4">
                             <div className="footer-company-infor flex flex-col justify-between gap-5">
-                                <Image width={4000} height={3000} className="footer-logo w-[145px]" src="/images/LogoWhite.png" alt="Logo" />
-                                <div className="text caption1 text-white">We are a multifaceted company dedicated to delivering tailored fire safety and infrastructure solutions for both individuals and enterprises.</div>
+                                <Image width={4000} height={3000} className="footer-logo w-[145px]" src="/images/Logo.png" alt="Logo" />
+                                <div className="text caption1 text-white">We are a diversified company committed to providing high-quality materials and innovative solutions across manufacturing, trading, and exporting industries.</div>
                                 <div className="list-social flex items-center gap-2.5 style-one">
                                     <Link className="item rounded-full w-7 h-7 border-2 border-grey flex items-center justify-center" href="https://www.facebook.com/" target="_blank">
                                         <i className="icon-facebook text-sm"></i>
@@ -59,13 +59,13 @@ const Footer = () => {
                                     <div className="text ml-16">
                                         <div className="caption2 text-surface">Need help? 24/7 </div>
                                         <div className="fw-700 text-white mt-1">
-                                        +968-96154505</div>
+                                        +91920785666</div>
                                     </div>
                                 </div>
                                 <div className="locate mt-3 flex items-center">
                                     <Icon.MapPin weight="light" className="text-surface" />
                                     <div className="caption1 text-surface ml-2">
-                                    311, Suhar, Falaj Al Qabail, Sultanate Of Oman</div>
+                                    1383, 5th Block, HBR Layout, Bengaluru-560045</div>
                                 </div>
                                 <form className="send-block mt-5 flex items-center h-[46px] rounded-lg overflow-hidden">
                                     <input className="caption1 text-secondary h-full w-full pr-4 pl-3" type="text" placeholder="Your email address" required />
@@ -79,7 +79,7 @@ const Footer = () => {
                     <div className="border-line"></div>
                     <div className="footer-bottom flex items-center justify-between pt-3 pb-3">
                         <div className="left-block flex items-center">
-                            <div className="copy-right text-surface caption1">©2024 Masterpieces Al Qudra Trading. All Rights Reserved.</div>
+                            <div className="copy-right text-surface caption1">©2024 MDeccan Mines Incorporates.                            All Rights Reserved.</div>
                         </div>
                         <div className="nav-link flex items-center gap-2.5">
                             <a className="text-surface caption1 hover-underline" href="#!">Terms Of Services</a>

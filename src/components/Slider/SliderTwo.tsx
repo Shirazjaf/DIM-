@@ -12,12 +12,12 @@ const SliderTwo = () => {
             <div className="text-content flex flex-col justify-between gap-y-10">
               <div className="title">
                 <div className="heading2 animate__animated text-white animate__fadeInLeft animate__delay-0-2s">
-                  Innovative engineering <br />
-                  in advanced fire <br />
-                  protection systems
+                Excellence in Material <br />
+  Processing and <br />
+  Global Trade
                 </div>
                 <div className="body2 text-white mt-4 animate__animated animate__fadeInLeft animate__delay-0-8s">
-                Receive customized fire safety solutions to protect what matters most.
+                Delivering high-quality materials and innovative solutions across industries worldwide.
                 </div>
               </div>
               <div className="button-block animate__animated animate__fadeInLeft animate__delay-0-8s">

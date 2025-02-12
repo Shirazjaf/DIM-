@@ -15,7 +15,7 @@ const CtaOne = () => {
       </div>
       <div className="container flex items-center justify-between max-lg:flex-col max-lg:justify-center gap-6 h-full">
         <div className="heading5 max-lg:text-center text-white">
-          Need Reliable Solutions for Your Fire Safety and Infrastructure Needs?
+        Need Reliable Solutions for Manufacturing, Trading, and Advanced Material Processing?
         </div>
         <Link
           className="button-main rounded-full hover:bg-black hover:text-white bg-white text-button px-9 py-3"

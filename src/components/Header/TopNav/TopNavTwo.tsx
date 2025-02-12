@@ -21,11 +21,11 @@ const TopNavTwo = () => {
                             <i className="ph-light ph-map-pin text-white fs-20"></i>
                             <Icon.MapPin className="text-white text-xl" />
                             <span className="ml-2 caption1 text-white">
-                            311, Suhar, Falaj Al Qabail, Sultanate Of Oman</span>
+                            1383, 5th Block, HBR Layout, Bengaluru-560045</span>
                         </div>
                         <div className="mail lg:ml-7 flex items-center">
                             <Icon.Envelope className="text-white text-xl" />
-                            <span className="ml-2 caption1 text-white">Malqudratrading@gmail.com</span>
+                            <span className="ml-2 caption1 text-white">deccan.dmi@gmail.com</span>
                         </div>
                     </div>
                 </div>

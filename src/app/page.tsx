@@ -25,13 +25,13 @@ export default function HomeTwo() {
         <main className="content">
           <SliderTwo />
           {/* <PartnerOne classname="bg-[#C4030A]" /> */}
-          <ProjectTwo />
+          {/* <ProjectTwo /> */}
           <ServiceTwo data={serviceData} />
           <TestimonialTwo />
-          <FormRequestTwo
+          {/* <FormRequestTwo
             classname="style-two"
             bgImg="/images/banner/form-benefit-two.png"
-          />
+          /> */}
           <div className="pb-[100px]"></div>
           <CtaOne />
         </main>

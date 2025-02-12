@@ -13,8 +13,8 @@ const ServiceTwo: React.FC<Props> = ({ data }) => {
                 <div className="container xl:flex items-center justify-center">
                     <div className="xl:w-1/3 w-full flex flex-col gap-4 flex-shrink-0">
                         <div className="text-sub-heading2 text-[#C4030A]">Services</div>
-                        <h3 className="heading3">Your Partner in Fire Safety and Protection</h3>
-                        <div className="body3 text-secondary">We specialize in comprehensive fire safety solutions, including system design, installation, and maintenance for both individuals and businesses.</div>
+                        <h3 className="heading3">Your Partner in Manufacturing and Exporting</h3>
+                        <div className="body3 text-secondary">We specialize in high-quality material solutions, including natural stones, pharmaceuticals, and technology, serving India and the Middle East.</div>
                     </div>
                     <div className="w-full xl:pl-[72px] list-service grid lg:grid-cols-2 sm:grid-cols-2 gap-8 max-xl:mt-8">
                         {data.filter(item => item.category === 'financial planning').slice(0, 4).map((item, index) => (

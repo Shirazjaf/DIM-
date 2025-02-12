@@ -44,7 +44,7 @@ const MenuOne = () => {
                             height={1000}
                             alt="logo"
                             priority={true}
-                            className="w-[149px] max-sm:w-[132px]"
+                            className="w-[249px] max-sm:w-[232px]"
                         />
                     </Link>
                     <div className="menu-center-block h-full">
